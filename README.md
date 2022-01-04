@@ -2,7 +2,7 @@
 
 # 🚀Hello Devs
 
-## 🍊 Najim 's Github Profile
+## ⚽ Najim 's Github Profile
 
 I am Najim, I’m a Front End developer who’s building unique websites and always been motivated to constantly improve my skills and improve myself professionally.
 I learn fast and can adapt quickly to teamwork. My language of choice is Javascript.
