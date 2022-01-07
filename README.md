@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=S-Najim-S&show_icons=true&theme=dracula">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=S-Najim-S&show_icons=true&theme=gotham">
 
 # 🚀Hello Devs
 
