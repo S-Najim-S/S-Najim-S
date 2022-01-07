@@ -11,7 +11,7 @@ You can check out some of my projects and if you got any questions you can reach
 
 ## 💫 What programming languages I like
 
-As a frontend developer i prioritize most of my time for Javascript .
+As a frontend developer I prioritize most of my time for Javascript .
 
 <h5>⭐️Languages and Tools</h5>
 
