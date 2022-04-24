@@ -52,5 +52,7 @@ As a frontend developer I prioritize most of my time for Javascript .
 Feel free to contact me about any problems you are facing. I will try to help as much as I can 😉
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/najim-sadat-857b61209/)
+[![Instagram Badge](https://img.shields.io/badge/instagram-C83472?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/najim.dev/)
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ayatalzaidi2000@gmail.com)](mailto:najim.sadat27@gmail.com)
+
 
