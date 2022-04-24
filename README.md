@@ -27,11 +27,12 @@ As a frontend developer I prioritize most of my time for Javascript .
 
 ![Angular](https://img.shields.io/badge/Angular-BD0E2D?style=for-the-badge&logo=Angular&logoColor=ADADAD)
 ![React](https://img.shields.io/badge/React-00B3E0?style=for-the-badge&logo=React&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23563D7C.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![webpack](https://badges.aleen42.com/src/webpack.svg)
 ![npm](https://badges.aleen42.com/src/npm.svg)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 
 
 ## 🥳 Some of my projects
