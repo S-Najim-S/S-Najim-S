@@ -26,8 +26,8 @@ As a frontend developer I prioritize most of my time for Javascript .
 ## Frameworks, Platforms and Libraries
 
 ![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
+![React](https://img.shields.io/badge/react-%00B3E0.svg?style=for-the-badge&logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23563D7C.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![webpack](https://badges.aleen42.com/src/webpack.svg)
 ![npm](https://badges.aleen42.com/src/npm.svg)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
